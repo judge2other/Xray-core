@@ -9,9 +9,9 @@
       "settings": {
         "clients": [
           {
-            "id": "YOUR_UUID",
+            "id": "d7cd6106-c7e3-41eb-9712-09688f2b8d3d",
             "level": 0,
-            "email": "example@example.com"
+            "email": "keyliuone@gmail.com"
           }
         ],
         "decryption": "none"
